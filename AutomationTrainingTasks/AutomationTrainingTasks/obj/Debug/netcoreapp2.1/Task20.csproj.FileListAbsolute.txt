@@ -1,0 +1,15 @@
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Task20.deps.json
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Task20.runtimeconfig.json
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Task20.runtimeconfig.dev.json
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Task20.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Task20.pdb
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\Task20.csprojAssemblyReference.cache
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\Task20.csproj.CoreCompileInputs.cache
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\Task20.AssemblyInfoInputs.cache
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\Task20.AssemblyInfo.cs
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\Task20.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\Task20.pdb
