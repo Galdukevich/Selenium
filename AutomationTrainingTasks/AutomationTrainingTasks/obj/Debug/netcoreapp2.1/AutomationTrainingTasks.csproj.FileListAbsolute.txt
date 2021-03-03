@@ -1,0 +1,15 @@
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\AutomationTrainingTasks.deps.json
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\AutomationTrainingTasks.runtimeconfig.json
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\AutomationTrainingTasks.runtimeconfig.dev.json
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\AutomationTrainingTasks.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\AutomationTrainingTasks.csprojAssemblyReference.cache
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\AutomationTrainingTasks.csproj.CoreCompileInputs.cache
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\AutomationTrainingTasks.AssemblyInfoInputs.cache
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\AutomationTrainingTasks.AssemblyInfo.cs
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\bin\Debug\netcoreapp2.1\AutomationTrainingTasks.pdb
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\AutomationTrainingTasks.dll
+C:\Users\alexandergaldukevich\source\repos\AutomationTrainingTasks\AutomationTrainingTasks\obj\Debug\netcoreapp2.1\AutomationTrainingTasks.pdb
